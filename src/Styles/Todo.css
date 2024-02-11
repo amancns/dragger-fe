@@ -1,0 +1,37 @@
+.input-container input {
+  width: 250px;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 1rem;
+}
+
+button {
+  width: 100px;
+  padding-left: 0.4rem;
+  height: 40px;
+  border-radius: 0.2rem;
+  border: none;
+  cursor: pointer;
+}
+
+.icons {
+  display: flex;
+  text-align: center;
+  margin: auto;
+}
+
+p{
+    text-align: center;
+}
+
+.editTodo {
+  display: flex;
+  gap: 3px;
+  border: 3px solid red;
+}
+
+.editTodo-lists {
+  margin-top: 1rem;
+}
+
